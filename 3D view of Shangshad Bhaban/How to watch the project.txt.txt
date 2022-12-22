@@ -1,0 +1,17 @@
+1. Codeblocks has to be installed first to run the project 
+2. Codebolcks is a very simple software and very easy to install
+3. After installing, double click on OpenGl (Project file)
+4. Then the project will open with Codeblocks
+5. Then click on "Build"
+6. After successfully build, click on "run"
+7. Then the project will run
+8. It is the 3D view of "Shangshad Bhaban" 
+9. You can move the design 
+	"up arrow" - move forward
+	"down arrow" - move backward
+	"left arrow" - move left
+	"right arrow" - move right
+	"page up" - move up
+	"page down" - move down
+
+Thank you.. :) 	

@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1474120225 source:d:\l-4 t-2\cse 410\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\l-4 t-2\cse 410\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1496855546 source:d:\l-4 t-2\cse 410\assignment 1\3\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\l-4 t-2\cse 410\assignment 1\3\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1496956679 source:d:\lab 3\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392011164 d:\lab 3\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1501714228 source:c:\users\abrar\desktop\lab\graphics lab\lab 3(8.6.17)\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1391960764 c:\users\abrar\desktop\lab\graphics lab\lab 3(8.6.17)\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1501715011 source:c:\users\abrar\desktop\lab 3(8.6.17)\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1391960764 c:\users\abrar\desktop\lab 3(8.6.17)\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1501737840 source:c:\users\abrar\desktop\4.2\lab 3(8.6.17)\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1391960764 c:\users\abrar\desktop\4.2\lab 3(8.6.17)\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1522164060 source:c:\users\abrar\desktop\open_gl_ab\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1391960764 c:\users\abrar\desktop\open_gl_ab\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1522164060 source:c:\users\abrar\desktop\all desktop things\3d view of shangshad bhaban\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1391960764 c:\users\abrar\desktop\all desktop things\3d view of shangshad bhaban\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
